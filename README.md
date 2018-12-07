@@ -12,11 +12,11 @@ three files present:
 
 ZSH is part of the order lists, you can ignore this step, it concerns the installation of a new terminal on your raspberry, this is optional.
 
-Lors de la finalisation des étapes, vous n'aurez plus qu'a accéder a votre nextcloud en allant sur http://adressIpPublic/nextcloud 
-voici une image : 
+When finalizing the steps, you will only have to access your nextcloud by going to http://adressIpPublic/nextcloud 
+here is an image:
 
 <img width="593" alt="capture d ecran 2018-12-07 a 20 58 49" src="https://user-images.githubusercontent.com/35256402/49673595-458d4480-fa6f-11e8-98a6-616cbd5d0a7c.png">
 
-Ils vous demanderont d'utiliser soit sqlLite ou Sqlite/ mariaDB , utilisez MariaDb, vous devrez rentrer le titre de la base de données et le mot de passe. Si vous avez bien suivie l'étape 4 du site https://github.com/antoinegilles/Configure-Nextcloud-on-a-Raspberry vous n'aurez qu'a rentrer les informations en laissant localhost.
+They will ask you to use either sqlLite or Sqlite / mariaDB, use MariaDb, you will have to enter the title of the database and the password. If you have followed step 4 of https://github.com/antoinegilles/Configure-Nextcloud-on-a-Raspberry you just have to enter the information leaving localhost.
 
-Vous voila connecté !
+Here you are connected!
